@@ -27,9 +27,6 @@ const predefinedResponses = {
                     </div>
                 </div>
             </div>
-            <div class="response-footer">
-                Última actualización: Hoy a las 14:30
-            </div>
         </div>
     `,
 
@@ -116,9 +113,6 @@ const predefinedResponses = {
                     <p>"El interés compuesto es la octava maravilla del mundo" - Albert Einstein. Reinvertir tus ganancias acelera el crecimiento.</p>
                 </div>
             </div>
-            <div class="response-footer">
-                ¿Te interesa profundizar en algún concepto específico?
-            </div>
         </div>
     `,
 
@@ -164,9 +158,6 @@ const predefinedResponses = {
                     <p>Sesión con asesor financiero</p>
                 </div>
             </div>
-            <div class="response-footer">
-                <strong>Tu estado actual:</strong> 345 puntos (Nivel Bronce) - Próximo beneficio: 45 puntos para 10€ en comercios
-            </div>
         </div>
     `,
 
@@ -196,10 +187,6 @@ const predefinedResponses = {
                         <li>Horario extendido: 8:00-20:00</li>
                     </ul>
                 </div>
-            </div>
-            <div class="response-footer">
-                <strong>Tu asesor personal:</strong> María González<br>
-                📞 933 123 456 (ext. 789) | ✉️ m.gonzalez@sabadell.es
             </div>
         </div>
     `
