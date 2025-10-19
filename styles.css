@@ -1278,7 +1278,7 @@ body {
     .chat-messages {
         padding: 1rem;
         min-height: 150px;
-        max-height: 300px;
+        max-height: 400px;
     }
     
     .message {
