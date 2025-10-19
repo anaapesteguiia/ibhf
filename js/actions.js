@@ -119,45 +119,8 @@ const predefinedResponses = {
     sistemaPuntos: `
         <div class="response-card">
             <h4>Sistema de puntos Sabadell Next Gen</h4>
-            <h5>⭐ Cómo ganar puntos:</h5>
-            <div class="bar-chart">
-                <div class="bar-item">
-                    <div class="bar-label">Compras con tarjeta</div>
-                    <div class="bar-container">
-                        <div class="bar-fill" style="width: 80%"></div>
-                    </div>
-                    <div class="bar-value">1 pt/10€</div>
-                </div>
-                <div class="bar-item">
-                    <div class="bar-label">Domiciliaciones</div>
-                    <div class="bar-container">
-                        <div class="bar-fill" style="width: 60%"></div>
-                    </div>
-                    <div class="bar-value">5 pts</div>
-                </div>
-                <div class="bar-item">
-                    <div class="bar-label">Nuevos productos</div>
-                    <div class="bar-container">
-                        <div class="bar-fill" style="width: 40%"></div>
-                    </div>
-                    <div class="bar-value">10 pts</div>
-                </div>
-            </div>
-            <h5>🎁 Cómo canjear puntos:</h5>
-            <div class="product-list">
-                <div class="product-item">
-                    <h5>100 puntos</h5>
-                    <p>10€ en comercios asociados</p>
-                </div>
-                <div class="product-item">
-                    <h5>500 puntos</h5>
-                    <p>Curso de educación financiera</p>
-                </div>
-                <div class="product-item">
-                    <h5>1.000 puntos</h5>
-                    <p>Sesión con asesor financiero</p>
-                </div>
-            </div>
+            <h5>⭐ ¿Cómo funciona?</h5>
+            <a href="https://anaapesteguiia.github.io/ibhf/shop.html" target="_blank" style="display:inline-block;background:linear-gradient(135deg,#005aa3,#00457c);color:#fff;padding:0.4rem 0.9rem;border-radius:6px;text-decoration:none;font-weight:600;">>🚀 Ven a esta página y te lo contamos todo</a>
         </div>
     `,
 
@@ -168,23 +131,21 @@ const predefinedResponses = {
                 <div class="product-item">
                     <h5>👨‍💼 Atención telefónica</h5>
                     <ul class="product-features">
-                        <li>900 123 456 (24/7)</li>
+                        <li>963 085 000 (24/7)</li>
                         <li>Asesoramiento general y urgente</li>
                     </ul>
                 </div>
                 <div class="product-item">
-                    <h5>🏢 Oficina principal</h5>
+                    <h5>🏢 Oficinas</h5>
                     <ul class="product-features">
-                        <li>C/ Principal, 123 - Sabadell</li>
-                        <li>Lunes a viernes: 8:30-14:30</li>
+                        <li>Lunes a viernes: 8:15-14:00</li>
                     </ul>
                 </div>
                 <div class="product-item">
                     <h5>💻 Videoasesor</h5>
                     <ul class="product-features">
-                        <li>Videollamada con especialista</li>
-                        <li>Reserva online en la app</li>
-                        <li>Horario extendido: 8:00-20:00</li>
+                        <li>Solicita préstamos y créditos</li>
+                        <li>Se necesita reserva previa en la web del banco</li>
                     </ul>
                 </div>
             </div>
