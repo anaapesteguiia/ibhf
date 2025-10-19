@@ -129,3 +129,9 @@ messageInput.addEventListener('keypress', (e) => {
 });
 
 messageInput.focus();
+
+
+// Evento que desplaza la página hasta el princpio cuando se recarga
+window.addEventListener('load', function() {
+    window.scrollTo(0, 0);
+});
