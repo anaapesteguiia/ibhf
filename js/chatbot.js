@@ -22,7 +22,7 @@ function addMessage(text, isUser) {
     
     const contentDiv = document.createElement('div');
     contentDiv.className = 'message-content';
-    contentDiv.textContent = text;
+    contentDiv.innerHTML = text;
     
     messageDiv.appendChild(contentDiv);
     messagesContainer.appendChild(messageDiv);
